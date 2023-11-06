@@ -6,7 +6,6 @@ linkedin.com/
 
 github.com/
 
-
 ## SKILLS
 React, Javascript, HTML, CSS, Java, C++, SQL, Xcode, VS Code, Git, Writing, Public Speaking
 
@@ -15,9 +14,7 @@ Bachelor, Software Development: Graduation Dec 202
 
 Utah Valley University: GPA 3.81
 
-
 ### Relevant Coursework
-
 Web Development 1
 Object Oriented Programming (Java and C++)
 Discrete Mathematics I & 2
@@ -33,7 +30,6 @@ Database Management
       used to create contrast color knitting patterns
 - Skeet (C++) - A digital version of skeet shooting. Skeets have varying level of difficulty
 
-
 **_FamilySearch Internship: May 2023 - Present_**
   - Collaborated in developing 2 codemods to transition 4,000+ files to updated library release
   - Participated in a11y committee to improve screen reader experiences for 30% of patrons
@@ -41,6 +37,7 @@ Database Management
 
 **_Enactus President: Apr 2022 - Apr 2023_**
   - Appointed and collaborated with four VPs to lead over 40 students in developing 3 distinct projects to pursue social impact goals in 7 countries
+
 **_Entrepreneurial TA/RA Assistant, BYUH Willes Center: Sep 2021 - Apr 2023_**
   - Designed 3 research proposals and oversaw a team of 3 to implement said projects
   - Identified concerns in the classroom and collaborated with a professor to create and implement solutions to improve 130+ students' learning experience
